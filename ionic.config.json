@@ -1,0 +1,7 @@
+{
+  "name": "qual-cidade-estou",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
